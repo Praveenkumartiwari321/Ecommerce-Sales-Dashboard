@@ -1,4 +1,4 @@
-# Kapoor and Sons Online Sales Dashboard
+# E-commerce Online Sales Dashboard
 
 This repository contains the project files and documentation for the development of an online sales dashboard for Kapoor and Sons using Power BI. The dashboard provides insightful visualizations and analytics to track and analyze online sales performance across various regions in India.
 
