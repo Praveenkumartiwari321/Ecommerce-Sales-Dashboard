@@ -39,10 +39,10 @@ This repository contains the project files and documentation for the development
 
 ## Screenshots
 
-![Dashboard Overview](ScreenShot/first.png)
+![Dashboard Overview](DashboardScreenShot/first.png)
 *Screenshot of the main dashboard overview.*
 
-![Regional Sales Analysis](ScreenShot/second.png)
+![Regional Sales Analysis](DashboardScreenShot/second.png)
 *Screenshot of the regional sales analysis section.*
 
 ## Contributing
