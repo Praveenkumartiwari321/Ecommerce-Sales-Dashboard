@@ -2,7 +2,7 @@
 
 This repository contains the project files and documentation for the development of an online sales dashboard for Kapoor and Sons using Power BI. The dashboard provides insightful visualizations and analytics to track and analyze online sales performance across various regions in India.
 
-## Features
+## Features:
 
 - **Sales Performance Tracking**: Monitor overall sales trends and performance metrics.
 - **Regional Analysis**: Analyze sales data segmented by different regions across India.
