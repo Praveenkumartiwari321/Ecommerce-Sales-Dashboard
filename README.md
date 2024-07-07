@@ -10,7 +10,7 @@ This repository contains the project files and documentation for the development
 - **Customer Analysis**: Gain insights into customer demographics and purchasing behavior.
 - **Time Series Analysis**: Observe sales trends over time to identify patterns and seasonality.
 
-## Technologies Used
+## Technologies Used:
 
 - **Power BI**: For creating the dashboard and visualizations.
 - **Excel/CSV Files**: For data storage and manipulation.
