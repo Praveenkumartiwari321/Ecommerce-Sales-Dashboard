@@ -16,7 +16,7 @@ This repository contains the project files and documentation for the development
 - **Excel/CSV Files**: For data storage and manipulation.
 - **DAX (Data Analysis Expressions)**: For data modeling and calculations.
 
-## Installation and Setup
+## Installation and Setup:
 
 1. Clone this repository to your local machine:
     ```bash
