@@ -31,7 +31,7 @@ This repository contains the project files and documentation for the development
 
 5. Refresh the data connections and ensure that all data is correctly loaded and visualizations are rendering as expected.
 
-## Usage
+## Usage:
 
 - Open the Power BI dashboard file (`kapoor-and-sons-dashboard.pbix`).
 - Use the interactive filters and slicers to explore different aspects of the sales data.
